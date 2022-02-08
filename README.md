@@ -1,7 +1,7 @@
 ## Overview
 
 This repository is an implementation of the paper **Interpreting Representation Quality of DNNs**
-**for 3D Point Cloud Processing** ([arxiv](https://arxiv.org/abs/2111.03549)), which was accepted by NeurIPS 2021.
+**for 3D Point Cloud Processing** ([arxiv](https://arxiv.org/abs/2111.03549)), which was accepted by NeurIPS 2021. It is created by [Wen Shen](https://ada-shen.github.io), [Qihan Ren](https://nebularaid2000.github.io), and [Dongrui Liu](shenqildr.github.io).
 
 
 
