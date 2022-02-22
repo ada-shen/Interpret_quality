@@ -35,7 +35,7 @@ mkdir data
 
 ### ModelNet10
 
-The dataset is originally in CAD mesh format. We provide the dataset in numpy format, which can be downloaded from [Google Drive](https://drive.google.com/file/d/1llgbjD8XMVaw2mWtoY2RWoLQelncCgZh/view?usp=sharing). After downloading the zip file, please unzip it to the `data` directory you have just created. Please do not change the name of the folders.
+The dataset is originally in CAD mesh format. We provide the dataset in numpy format, which can be downloaded from [Google Drive](https://drive.google.com/file/d/1fTMZMIEUVXidKjPACabkb4cpwTVqEod4/view?usp=sharing). After downloading the zip file, please unzip it to the `data` directory you have just created. Please do not change the name of the folders.
 
 ### ShapeNet Part
 
